@@ -1,7 +1,7 @@
 # tsim-ads-research
 learning 
 
-> ## 简介
+> ## introduction
 
 
 
@@ -9,7 +9,7 @@ learning
 
 
 
-> ## 研究主要内容
+> ## main contents
 
 
 
@@ -17,7 +17,7 @@ learning
 
 
 
-> ## 代码模块
+> ## coding mode
 
 
 
